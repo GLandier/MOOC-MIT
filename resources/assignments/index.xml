@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/assignments/data.json</guid>
+      <description>&lt;p&gt;&lt;table&gt;&#xA;&#xA;&lt;thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;ASSIGNMENTS&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;solutions&#xA;&lt;/th&gt;&#xA;&lt;/p&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;p&gt;&lt;/thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit2_61s17_ps1/index.html&#34;&gt;Problem set 1 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit2_61s17_ps1_soln/index.html&#34;&gt;Problem set 1 solutions (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit2_61s17_ps2/index.html&#34;&gt;Problem set 2 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit2_61s17_ps2_soln/index.html&#34;&gt;Problem set 2 solutions (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit2_61s17_ps3/index.html&#34;&gt;Problem set 3 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit2_61s17_ps3_soln/index.html&#34;&gt;Problem set 3 solutions (PDF - 1.5MB)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit2_61s17_ps4/index.html&#34;&gt;Problem set 4 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit2_61s17_ps4_soln/index.html&#34;&gt;Problem set 4 solutions (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit2_61s17_ps5/index.html&#34;&gt;Problem set 5 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit2_61s17_ps5_soln/index.html&#34;&gt;Problem set 5 solutions (PDF)&lt;/a&gt;&lt;br&gt;&#xA;Supporting files: &lt;a href=&#34;../../resources/si_sim/index.html&#34;&gt;si_sim.m (M)&lt;/a&gt;, &lt;a href=&#34;../../resources/si_sim-1/index.html&#34;&gt;si_sim.oum (OUM)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit2_61s17_ps6/index.html&#34;&gt;Problem set 6 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit2_61s17_ps6_soln/index.html&#34;&gt;Problem set 6 solutions (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit2_61s17_ps7/index.html&#34;&gt;Problem set 7 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit2_61s17_ps7_soln/index.html&#34;&gt;Problem set 7 solutions (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit2_61s17_ps8/index.html&#34;&gt;Problem set 8 (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit2_61s17_ps8_soln/index.html&#34;&gt;Problem set 8 solutions (PDF)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 1 </title>
+      <link>/resources/mit2_61s17_ps1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps1/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 1 solution</title>
+      <link>/resources/mit2_61s17_ps1_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps1_soln/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 2 </title>
+      <link>/resources/mit2_61s17_ps2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps2/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 2 solution</title>
+      <link>/resources/mit2_61s17_ps2_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps2_soln/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 3</title>
+      <link>/resources/mit2_61s17_ps3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps3/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 3 solution</title>
+      <link>/resources/mit2_61s17_ps3_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps3_soln/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 4</title>
+      <link>/resources/mit2_61s17_ps4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps4/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 4 solution</title>
+      <link>/resources/mit2_61s17_ps4_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps4_soln/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 5</title>
+      <link>/resources/mit2_61s17_ps5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps5/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 5 solution</title>
+      <link>/resources/mit2_61s17_ps5_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps5_soln/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 6</title>
+      <link>/resources/mit2_61s17_ps6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps6/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 6 solution</title>
+      <link>/resources/mit2_61s17_ps6_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps6_soln/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 7</title>
+      <link>/resources/mit2_61s17_ps7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps7/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 7 solution</title>
+      <link>/resources/mit2_61s17_ps7_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps7_soln/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 8</title>
+      <link>/resources/mit2_61s17_ps8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps8/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 8 solution</title>
+      <link>/resources/mit2_61s17_ps8_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps8_soln/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 9</title>
+      <link>/resources/mit2_61s17_ps9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps9/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal Combustion Engines, Problem set 9 solution</title>
+      <link>/resources/mit2_61s17_ps9_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit2_61s17_ps9_soln/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SI_SIM.m</title>
+      <link>/resources/si_sim/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/si_sim/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>si_sim.oum</title>
+      <link>/resources/si_sim-1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/si_sim-1/data.json</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
